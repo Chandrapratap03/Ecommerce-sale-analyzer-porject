@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Region,Payment_Mode,Order_Status,Total_Sales
+O0001,2026-03-31,C1101,Priya Verma,Mouse,Electronics,4,1560,West,Net Banking,Returned,6240
+O0002,2026-02-11,C1117,Ananya Sharma,Keyboard,Electronics,5,1320,North,Credit Card,Delivered,6600
+O0003,2026-04-15,C1046,Rohan Gupta,Jeans,Fashion,3,3340,South,Debit Card,Delivered,10020
+O0004,2026-07-26,C1119,Pooja Singh,Yoga Mat,Sports,4,1030,East,Cash on Delivery,Delivered,4120
+O0005,2026-01-03,C1102,Rohan Gupta,Yoga Mat,Sports,1,960,South,Credit Card,Delivered,960
+O0006,2026-08-18,C1100,Rohan Gupta,Laptop,Electronics,2,84730,North,Net Banking,Delivered,169460
+O0007,2026-05-29,C1087,Sakshi Sharma,Football,Sports,5,2420,East,Net Banking,Returned,12100
+O0008,2026-02-01,C1026,Aanya Singh,Blender,Home & Kitchen,4,3850,West,Debit Card,Delivered,15400
+O0009,2026-10-26,C1066,Rohan Gupta,Bedsheet,Home & Kitchen,5,1960,North,Net Banking,Returned,9800
+O0010,2026-05-21,C1031,Vivaan Kumar,Backpack,Fashion,2,1170,South,Debit Card,Pending,2340
+O0011,2026-10-18,C1092,Ishita Gupta,Football,Sports,2,2260,West,UPI,Cancelled,4520
+O0012,2026-09-26,C1031,Tanya Patel,Keyboard,Electronics,4,1680,South,UPI,Delivered,6720
+O0013,2026-03-19,C1123,Pooja Singh,Keyboard,Electronics,4,4170,North,Cash on Delivery,Delivered,16680
+O0014,2026-04-12,C1064,Rahul Patel,Smartphone,Electronics,4,18850,North,UPI,Delivered,75400
+O0015,2026-05-09,C1018,Neha Kumar,T-Shirt,Fashion,1,810,North,Net Banking,Delivered,810
+O0016,2026-12-23,C1117,Sakshi Sharma,Face Wash,Beauty,4,680,South,Net Banking,Pending,2720
+O0017,2026-04-17,C1106,Aditya Singh,Shoes,Fashion,4,2240,East,Cash on Delivery,Returned,8960
+O0018,2026-04-27,C1013,Neha Kumar,Shoes,Fashion,1,2470,East,UPI,Delivered,2470
+O0019,2026-10-13,C1076,Kabir Malhotra,Jacket,Fashion,1,2060,West,UPI,Cancelled,2060
+O0020,2026-11-26,C1006,Aditya Singh,Headphones,Electronics,2,3850,East,Debit Card,Cancelled,7700
+O0021,2026-04-05,C1022,Aarav Sharma,Table Lamp,Home & Kitchen,1,2460,East,Net Banking,Delivered,2460
+O0022,2026-01-07,C1082,Sakshi Sharma,Smartwatch,Electronics,1,16470,West,Credit Card,Delivered,16470
+O0023,2026-04-19,C1042,Tanya Patel,Cookware Set,Home & Kitchen,4,4500,East,UPI,Cancelled,18000
+O0024,2026-10-27,C1150,Sakshi Sharma,Table Lamp,Home & Kitchen,2,1710,North,Debit Card,Delivered,3420
+O0025,2026-04-25,C1013,Neha Kumar,Keyboard,Electronics,5,3850,West,Cash on Delivery,Cancelled,19250
+O0026,2026-01-24,C1114,Simran Bansal,Blender,Home & Kitchen,1,2150,North,Net Banking,Delivered,2150
+O0027,2026-05-31,C1025,Pooja Singh,Face Wash,Beauty,1,360,South,Credit Card,Returned,360
+O0028,2026-03-29,C1092,Nisha Gupta,Moisturizer,Beauty,5,670,West,UPI,Cancelled,3350
+O0029,2026-12-11,C1121,Aanya Singh,Face Wash,Beauty,3,390,South,Debit Card,Delivered,1170
+O0030,2026-09-17,C1029,Pooja Singh,Smartphone,Electronics,1,33410,North,Credit Card,Delivered,33410
+O0031,2026-06-29,C1131,Riya Mehta,Yoga Mat,Sports,1,1720,South,Cash on Delivery,Delivered,1720
+O0032,2026-01-16,C1135,Sakshi Sharma,Perfume,Beauty,5,2210,North,Credit Card,Delivered,11050
+O0033,2026-12-22,C1003,Arjun Verma,Cricket Bat,Sports,2,5940,South,Debit Card,Delivered,11880
+O0034,2026-06-06,C1079,Mehak Kapoor,Keyboard,Electronics,3,1230,South,Debit Card,Delivered,3690
+O0035,2026-11-28,C1040,Karan Mehta,Smartwatch,Electronics,3,14720,West,UPI,Delivered,44160
+O0036,2026-06-10,C1069,Rohan Gupta,Backpack,Fashion,5,1940,North,Cash on Delivery,Returned,9700
+O0037,2026-09-23,C1042,Riya Mehta,Laptop,Electronics,2,82220,North,Net Banking,Delivered,164440
+O0038,2026-09-12,C1016,Simran Bansal,Blender,Home & Kitchen,1,2220,West,Credit Card,Delivered,2220
+O0039,2026-05-17,C1065,Karan Mehta,Bedsheet,Home & Kitchen,2,1220,East,Cash on Delivery,Delivered,2440
+O0040,2026-05-17,C1062,Sakshi Sharma,Shoes,Fashion,3,1640,South,UPI,Cancelled,4920
+O0041,2026-03-03,C1044,Tanya Patel,Bedsheet,Home & Kitchen,1,1600,West,Debit Card,Delivered,1600
+O0042,2026-01-12,C1120,Ishita Gupta,Perfume,Beauty,2,2960,North,Debit Card,Delivered,5920
+O0043,2026-07-02,C1011,Ananya Sharma,Football,Sports,1,790,West,Net Banking,Pending,790
+O0044,2026-07-06,C1084,Rahul Patel,Jacket,Fashion,5,5870,South,Credit Card,Delivered,29350
+O0045,2026-05-07,C1128,Arjun Verma,Face Wash,Beauty,4,770,South,Credit Card,Delivered,3080
+O0046,2026-11-12,C1072,Riya Mehta,Jeans,Fashion,1,1240,South,Debit Card,Delivered,1240
+O0047,2026-09-01,C1089,Ishita Gupta,Smartphone,Electronics,5,37370,North,Net Banking,Delivered,186850
+O0048,2026-06-08,C1060,Neha Kumar,Football,Sports,2,1550,West,UPI,Delivered,3100
+O0049,2026-12-23,C1026,Ananya Sharma,Shoes,Fashion,1,4240,West,Cash on Delivery,Pending,4240
+O0050,2026-01-22,C1127,Aanya Singh,Shoes,Fashion,5,5000,South,UPI,Delivered,25000
+O0051,2026-09-29,C1022,Ishita Gupta,Face Wash,Beauty,5,510,South,Cash on Delivery,Pending,2550
+O0052,2026-07-28,C1046,Nisha Gupta,Smartphone,Electronics,4,42170,West,Credit Card,Returned,168680
+O0053,2026-07-08,C1001,Aanya Singh,Football,Sports,1,1750,West,UPI,Delivered,1750
+O0054,2026-08-18,C1126,Sakshi Sharma,Football,Sports,3,1100,South,Cash on Delivery,Delivered,3300
+O0055,2026-01-05,C1007,Neha Kumar,T-Shirt,Fashion,3,1490,North,Net Banking,Delivered,4470
+O0056,2026-03-30,C1105,Aanya Singh,Mouse,Electronics,2,1610,East,Net Banking,Returned,3220
+O0057,2026-10-22,C1122,Arjun Verma,Cookware Set,Home & Kitchen,4,6480,South,UPI,Pending,25920
+O0058,2026-08-08,C1100,Neha Kumar,Smartphone,Electronics,1,56670,South,UPI,Delivered,56670
+O0059,2026-07-14,C1069,Aanya Singh,Headphones,Electronics,2,7660,South,Net Banking,Delivered,15320
+O0060,2026-12-08,C1090,Priya Verma,Football,Sports,5,1530,West,Debit Card,Delivered,7650
+O0061,2026-01-01,C1075,Pooja Singh,Bedsheet,Home & Kitchen,2,1690,North,Debit Card,Returned,3380
+O0062,2026-08-13,C1036,Riya Mehta,Face Wash,Beauty,4,570,East,Debit Card,Delivered,2280
+O0063,2026-09-25,C1103,Karan Mehta,Headphones,Electronics,4,2050,South,Debit Card,Delivered,8200
+O0064,2026-12-20,C1116,Priya Verma,Smartphone,Electronics,1,58220,North,Debit Card,Pending,58220
+O0065,2026-10-22,C1076,Sakshi Sharma,T-Shirt,Fashion,3,1120,East,Debit Card,Cancelled,3360
+O0066,2026-02-22,C1041,Aanya Singh,Backpack,Fashion,3,2250,West,Net Banking,Cancelled,6750
+O0067,2026-06-22,C1038,Neha Kumar,Jeans,Fashion,2,1810,West,Cash on Delivery,Delivered,3620
+O0068,2026-11-21,C1063,Tanya Patel,Cookware Set,Home & Kitchen,3,4260,South,Debit Card,Delivered,12780
+O0069,2026-10-24,C1087,Aarav Sharma,Face Wash,Beauty,3,600,West,Net Banking,Delivered,1800
+O0070,2026-05-26,C1133,Simran Bansal,Moisturizer,Beauty,4,1530,North,Net Banking,Delivered,6120
+O0071,2026-05-22,C1090,Priya Verma,Mouse,Electronics,3,1920,West,UPI,Pending,5760
+O0072,2026-03-02,C1021,Mehak Kapoor,Smartwatch,Electronics,2,17010,South,Credit Card,Delivered,34020
+O0073,2026-09-05,C1117,Nisha Gupta,Smartphone,Electronics,5,60110,East,UPI,Delivered,300550
+O0074,2026-11-26,C1114,Mehak Kapoor,Keyboard,Electronics,3,3220,East,Net Banking,Cancelled,9660
+O0075,2026-02-05,C1007,Mehak Kapoor,Cricket Bat,Sports,1,2710,North,Debit Card,Delivered,2710
+O0076,2026-10-11,C1027,Sakshi Sharma,Cricket Bat,Sports,1,6770,North,UPI,Delivered,6770
+O0077,2026-05-30,C1001,Tanya Patel,Bedsheet,Home & Kitchen,5,960,East,UPI,Delivered,4800
+O0078,2026-08-03,C1016,Pooja Singh,Smartwatch,Electronics,1,16940,East,Debit Card,Cancelled,16940
+O0079,2026-08-22,C1123,Tanya Patel,Face Wash,Beauty,1,310,East,Credit Card,Delivered,310
+O0080,2026-10-17,C1003,Arjun Verma,Smartphone,Electronics,5,47520,East,Credit Card,Cancelled,237600
+O0081,2026-08-01,C1042,Nisha Gupta,Cookware Set,Home & Kitchen,1,4400,South,Debit Card,Delivered,4400
+O0082,2026-09-18,C1016,Pooja Singh,Headphones,Electronics,2,7250,East,UPI,Returned,14500
+O0083,2026-11-13,C1050,Arjun Verma,Cricket Bat,Sports,5,4150,West,Net Banking,Delivered,20750
+O0084,2026-01-19,C1129,Tanya Patel,Smartphone,Electronics,3,47870,East,Credit Card,Cancelled,143610
+O0085,2026-02-02,C1141,Mehak Kapoor,Backpack,Fashion,3,1770,West,UPI,Delivered,5310
+O0086,2026-09-29,C1069,Pooja Singh,Smartphone,Electronics,3,69510,South,Cash on Delivery,Delivered,208530
+O0087,2026-01-09,C1095,Pooja Singh,Smartwatch,Electronics,1,14190,North,Debit Card,Pending,14190
+O0088,2026-07-04,C1057,Karan Mehta,Face Wash,Beauty,2,320,West,UPI,Delivered,640
+O0089,2026-03-22,C1110,Mehak Kapoor,Table Lamp,Home & Kitchen,1,1850,West,Cash on Delivery,Delivered,1850
+O0090,2026-02-03,C1065,Priya Verma,Cricket Bat,Sports,3,6270,West,Credit Card,Delivered,18810
+O0091,2026-12-17,C1134,Aarav Sharma,Moisturizer,Beauty,2,480,East,Credit Card,Delivered,960
+O0092,2026-11-17,C1133,Vivaan Kumar,Football,Sports,4,1860,East,Debit Card,Pending,7440
+O0093,2026-01-19,C1081,Rahul Patel,Blender,Home & Kitchen,1,2200,West,UPI,Pending,2200
+O0094,2026-12-06,C1114,Aarav Sharma,Face Wash,Beauty,3,370,West,Credit Card,Pending,1110
+O0095,2026-11-02,C1028,Tanya Patel,Headphones,Electronics,3,2340,West,Net Banking,Returned,7020
+O0096,2026-11-24,C1025,Nisha Gupta,Jeans,Fashion,1,2630,East,Net Banking,Delivered,2630
+O0097,2026-12-18,C1076,Kabir Malhotra,Bedsheet,Home & Kitchen,2,2450,North,Debit Card,Delivered,4900
+O0098,2026-05-31,C1090,Aanya Singh,Backpack,Fashion,1,1820,East,Cash on Delivery,Delivered,1820
+O0099,2026-09-18,C1021,Kabir Malhotra,Yoga Mat,Sports,3,830,East,Cash on Delivery,Delivered,2490
+O0100,2026-04-01,C1037,Pooja Singh,Yoga Mat,Sports,1,520,South,UPI,Delivered,520
+O0101,2026-12-30,C1101,Sakshi Sharma,Jeans,Fashion,1,2790,West,Net Banking,Pending,2790
+O0102,2026-11-30,C1098,Neha Kumar,Jacket,Fashion,4,3100,North,UPI,Delivered,12400
+O0103,2026-02-06,C1093,Neha Kumar,Jacket,Fashion,4,3510,South,Credit Card,Cancelled,14040
+O0104,2026-06-16,C1078,Rahul Patel,Backpack,Fashion,2,1870,East,Cash on Delivery,Delivered,3740
+O0105,2026-07-27,C1107,Rahul Patel,Keyboard,Electronics,4,3180,South,Cash on Delivery,Delivered,12720
+O0106,2026-08-04,C1125,Riya Mehta,Blender,Home & Kitchen,2,5600,South,Net Banking,Delivered,11200
+O0107,2026-05-14,C1133,Tanya Patel,Moisturizer,Beauty,5,1680,North,Credit Card,Cancelled,8400
+O0108,2026-09-28,C1143,Aditya Singh,Perfume,Beauty,5,4000,South,UPI,Delivered,20000
+O0109,2026-06-13,C1057,Ananya Sharma,Jacket,Fashion,4,6300,East,Debit Card,Delivered,25200
+O0110,2026-12-27,C1136,Aditya Singh,Football,Sports,5,2430,South,UPI,Delivered,12150
+O0111,2026-03-10,C1143,Mehak Kapoor,Football,Sports,2,890,South,Debit Card,Delivered,1780
+O0112,2026-04-02,C1139,Sakshi Sharma,Shoes,Fashion,3,1760,North,Net Banking,Cancelled,5280
+O0113,2026-07-30,C1135,Priya Verma,Moisturizer,Beauty,2,1720,North,Net Banking,Delivered,3440
+O0114,2026-08-23,C1129,Nisha Gupta,Jeans,Fashion,5,2200,West,UPI,Delivered,11000
+O0115,2026-12-07,C1063,Kabir Malhotra,Smartwatch,Electronics,1,7630,North,Debit Card,Delivered,7630
+O0116,2026-01-28,C1071,Rahul Patel,Yoga Mat,Sports,3,810,West,Cash on Delivery,Pending,2430
+O0117,2026-02-25,C1053,Aditya Singh,Jeans,Fashion,3,1670,South,Credit Card,Delivered,5010
+O0118,2026-03-26,C1009,Tanya Patel,Smartwatch,Electronics,2,11640,North,UPI,Delivered,23280
+O0119,2026-05-31,C1142,Karan Mehta,Face Wash,Beauty,4,320,North,Credit Card,Delivered,1280
+O0120,2026-11-06,C1113,Riya Mehta,Face Wash,Beauty,1,300,South,Cash on Delivery,Delivered,300
+O0121,2026-04-10,C1052,Aanya Singh,Mouse,Electronics,2,1800,South,UPI,Delivered,3600
+O0122,2026-08-15,C1103,Ishita Gupta,Perfume,Beauty,3,4850,South,Net Banking,Pending,14550
+O0123,2026-07-17,C1024,Sakshi Sharma,Jeans,Fashion,4,2880,West,Debit Card,Delivered,11520
+O0124,2026-03-26,C1053,Sakshi Sharma,Smartphone,Electronics,3,58500,South,UPI,Delivered,175500
+O0125,2026-05-22,C1054,Rahul Patel,Keyboard,Electronics,4,4820,North,Net Banking,Delivered,19280
+O0126,2026-05-29,C1053,Arjun Verma,Shoes,Fashion,2,1770,West,UPI,Cancelled,3540
+O0127,2026-01-13,C1134,Aanya Singh,Football,Sports,4,1830,East,Debit Card,Cancelled,7320
+O0128,2026-03-10,C1120,Ishita Gupta,Smartphone,Electronics,4,50460,East,Debit Card,Pending,201840
+O0129,2026-05-26,C1077,Neha Kumar,Blender,Home & Kitchen,1,5000,West,UPI,Delivered,5000
+O0130,2026-06-03,C1037,Mehak Kapoor,Table Lamp,Home & Kitchen,3,1780,North,Credit Card,Returned,5340
+O0131,2026-05-09,C1092,Nisha Gupta,Cookware Set,Home & Kitchen,3,3800,North,Credit Card,Pending,11400
+O0132,2026-12-25,C1079,Arjun Verma,Smartphone,Electronics,5,26390,West,Cash on Delivery,Delivered,131950
+O0133,2026-04-08,C1066,Arjun Verma,Bedsheet,Home & Kitchen,2,790,North,Debit Card,Pending,1580
+O0134,2026-02-16,C1146,Tanya Patel,Face Wash,Beauty,5,610,North,Debit Card,Delivered,3050
+O0135,2026-05-21,C1018,Kabir Malhotra,Moisturizer,Beauty,3,530,North,UPI,Delivered,1590
+O0136,2026-05-24,C1054,Tanya Patel,Backpack,Fashion,2,2930,North,UPI,Returned,5860
+O0137,2026-12-24,C1148,Pooja Singh,Perfume,Beauty,2,2440,West,Net Banking,Delivered,4880
+O0138,2026-12-26,C1083,Ananya Sharma,Mouse,Electronics,4,1650,East,UPI,Returned,6600
+O0139,2026-09-09,C1031,Priya Verma,Yoga Mat,Sports,2,770,East,UPI,Delivered,1540
+O0140,2026-04-04,C1148,Rahul Patel,Blender,Home & Kitchen,2,4280,West,Debit Card,Delivered,8560
+O0141,2026-05-19,C1099,Tanya Patel,Laptop,Electronics,1,47300,North,Credit Card,Cancelled,47300
+O0142,2026-12-14,C1094,Rahul Patel,Cricket Bat,Sports,1,5140,North,Credit Card,Delivered,5140
+O0143,2026-10-25,C1017,Aditya Singh,Yoga Mat,Sports,5,1180,South,Cash on Delivery,Delivered,5900
+O0144,2026-04-26,C1082,Kabir Malhotra,Cookware Set,Home & Kitchen,4,3030,East,Debit Card,Delivered,12120
+O0145,2026-01-27,C1128,Simran Bansal,Blender,Home & Kitchen,5,4060,West,Debit Card,Returned,20300
+O0146,2026-11-14,C1045,Mehak Kapoor,Blender,Home & Kitchen,3,5270,South,Debit Card,Delivered,15810
+O0147,2026-12-15,C1040,Aanya Singh,Backpack,Fashion,3,1130,South,Debit Card,Cancelled,3390
+O0148,2026-12-10,C1113,Simran Bansal,Smartphone,Electronics,1,21740,West,Credit Card,Pending,21740
+O0149,2026-12-08,C1146,Vivaan Kumar,Keyboard,Electronics,2,3290,South,Net Banking,Cancelled,6580
+O0150,2026-03-29,C1116,Rahul Patel,T-Shirt,Fashion,4,1620,North,Net Banking,Cancelled,6480
+O0151,2026-06-27,C1012,Ishita Gupta,Shoes,Fashion,3,2940,South,Debit Card,Pending,8820
+O0152,2026-04-09,C1075,Simran Bansal,Shoes,Fashion,1,4660,South,Debit Card,Returned,4660
+O0153,2026-04-23,C1011,Aanya Singh,T-Shirt,Fashion,1,1550,North,Credit Card,Delivered,1550
+O0154,2026-09-27,C1013,Arjun Verma,Moisturizer,Beauty,5,1730,East,Cash on Delivery,Delivered,8650
+O0155,2026-01-29,C1029,Kabir Malhotra,Jacket,Fashion,2,2020,South,UPI,Delivered,4040
+O0156,2026-08-11,C1081,Simran Bansal,Mouse,Electronics,3,600,North,Credit Card,Returned,1800
+O0157,2026-05-20,C1050,Priya Verma,Moisturizer,Beauty,2,650,North,UPI,Delivered,1300
+O0158,2026-06-08,C1104,Tanya Patel,Yoga Mat,Sports,3,1360,East,UPI,Delivered,4080
+O0159,2026-02-18,C1077,Aarav Sharma,Cookware Set,Home & Kitchen,3,2960,South,Net Banking,Delivered,8880
+O0160,2026-11-07,C1128,Karan Mehta,Moisturizer,Beauty,2,1060,East,Cash on Delivery,Delivered,2120
+O0161,2026-05-18,C1014,Rahul Patel,Headphones,Electronics,1,6910,West,Cash on Delivery,Delivered,6910
+O0162,2026-07-09,C1060,Mehak Kapoor,Yoga Mat,Sports,2,970,West,Credit Card,Delivered,1940
+O0163,2026-08-09,C1118,Sakshi Sharma,Backpack,Fashion,3,1520,West,UPI,Pending,4560
+O0164,2026-05-23,C1093,Aanya Singh,Smartphone,Electronics,2,21210,North,UPI,Delivered,42420
+O0165,2026-11-04,C1034,Aanya Singh,Table Lamp,Home & Kitchen,1,1810,South,UPI,Cancelled,1810
+O0166,2026-12-16,C1035,Kabir Malhotra,Jacket,Fashion,5,2240,East,Net Banking,Delivered,11200
+O0167,2026-01-07,C1128,Aditya Singh,Bedsheet,Home & Kitchen,5,1610,East,UPI,Pending,8050
+O0168,2026-04-07,C1027,Karan Mehta,Laptop,Electronics,3,73420,South,Cash on Delivery,Returned,220260
+O0169,2026-03-03,C1131,Mehak Kapoor,Moisturizer,Beauty,3,1280,West,UPI,Cancelled,3840
+O0170,2026-11-07,C1095,Ishita Gupta,Bedsheet,Home & Kitchen,4,1250,East,Net Banking,Delivered,5000
+O0171,2026-05-20,C1080,Karan Mehta,Laptop,Electronics,5,52980,West,Credit Card,Cancelled,264900
+O0172,2026-07-21,C1050,Vivaan Kumar,Keyboard,Electronics,5,1770,South,Debit Card,Pending,8850
+O0173,2026-04-02,C1132,Arjun Verma,Moisturizer,Beauty,1,620,East,Debit Card,Delivered,620
+O0174,2026-05-07,C1028,Aarav Sharma,T-Shirt,Fashion,1,1730,West,Net Banking,Delivered,1730
+O0175,2026-09-22,C1086,Aditya Singh,Moisturizer,Beauty,1,1320,South,Credit Card,Cancelled,1320
+O0176,2026-11-20,C1146,Priya Verma,Cricket Bat,Sports,4,6040,South,UPI,Delivered,24160
+O0177,2026-08-14,C1009,Sakshi Sharma,Cookware Set,Home & Kitchen,4,6200,West,UPI,Cancelled,24800
+O0178,2026-09-30,C1124,Nisha Gupta,Backpack,Fashion,2,2650,North,Debit Card,Delivered,5300
+O0179,2026-01-09,C1139,Aditya Singh,Laptop,Electronics,3,58800,North,Debit Card,Delivered,176400
+O0180,2026-02-26,C1059,Simran Bansal,Yoga Mat,Sports,5,860,East,UPI,Cancelled,4300
+O0181,2026-07-29,C1038,Ishita Gupta,Bedsheet,Home & Kitchen,3,1840,North,Credit Card,Cancelled,5520
+O0182,2026-10-03,C1033,Neha Kumar,Smartphone,Electronics,1,42890,West,Credit Card,Delivered,42890
+O0183,2026-08-07,C1023,Vivaan Kumar,Smartwatch,Electronics,4,10330,North,Debit Card,Delivered,41320
+O0184,2026-07-23,C1148,Rahul Patel,Keyboard,Electronics,5,2560,North,Net Banking,Delivered,12800
+O0185,2026-10-30,C1054,Rahul Patel,Keyboard,Electronics,1,1680,East,Cash on Delivery,Delivered,1680
+O0186,2026-09-19,C1065,Simran Bansal,Smartphone,Electronics,2,37500,North,Cash on Delivery,Cancelled,75000
+O0187,2026-07-03,C1098,Aanya Singh,Backpack,Fashion,3,2060,East,Debit Card,Returned,6180
+O0188,2026-10-28,C1025,Aanya Singh,Smartwatch,Electronics,3,14810,East,Net Banking,Delivered,44430
+O0189,2026-11-25,C1125,Neha Kumar,Cookware Set,Home & Kitchen,3,3360,East,Net Banking,Delivered,10080
+O0190,2026-08-03,C1024,Karan Mehta,Bedsheet,Home & Kitchen,5,1670,West,Credit Card,Delivered,8350
+O0191,2026-12-20,C1063,Rahul Patel,Laptop,Electronics,1,58910,East,Cash on Delivery,Delivered,58910
+O0192,2026-01-29,C1018,Rohan Gupta,Jacket,Fashion,3,6450,East,Debit Card,Delivered,19350
+O0193,2026-01-27,C1025,Pooja Singh,Bedsheet,Home & Kitchen,4,1510,South,Credit Card,Pending,6040
+O0194,2026-10-22,C1086,Aditya Singh,Smartwatch,Electronics,1,15600,East,UPI,Delivered,15600
+O0195,2026-01-27,C1123,Rahul Patel,T-Shirt,Fashion,3,1760,North,Net Banking,Delivered,5280
+O0196,2026-02-20,C1005,Aditya Singh,Football,Sports,4,900,North,Debit Card,Delivered,3600
+O0197,2026-02-23,C1133,Pooja Singh,Table Lamp,Home & Kitchen,1,1070,South,Net Banking,Pending,1070
+O0198,2026-06-06,C1078,Simran Bansal,Smartphone,Electronics,4,26230,East,Cash on Delivery,Delivered,104920
+O0199,2026-01-18,C1119,Pooja Singh,Football,Sports,2,1390,West,Net Banking,Cancelled,2780
+O0200,2026-01-02,C1127,Pooja Singh,Jeans,Fashion,2,1310,East,Cash on Delivery,Pending,2620
+O0201,2026-02-13,C1057,Aditya Singh,Perfume,Beauty,5,4300,South,Net Banking,Cancelled,21500
+O0202,2026-12-22,C1032,Karan Mehta,Shoes,Fashion,5,4350,South,UPI,Returned,21750
+O0203,2026-01-04,C1125,Sakshi Sharma,Keyboard,Electronics,5,3990,East,Credit Card,Delivered,19950
+O0204,2026-06-17,C1148,Tanya Patel,Face Wash,Beauty,4,850,South,Net Banking,Delivered,3400
+O0205,2026-04-19,C1068,Vivaan Kumar,T-Shirt,Fashion,5,870,East,Net Banking,Cancelled,4350
+O0206,2026-03-31,C1118,Pooja Singh,Table Lamp,Home & Kitchen,3,1500,North,UPI,Returned,4500
+O0207,2026-12-08,C1114,Aanya Singh,Cookware Set,Home & Kitchen,3,2690,South,Cash on Delivery,Cancelled,8070
+O0208,2026-02-04,C1095,Aarav Sharma,Table Lamp,Home & Kitchen,1,2580,East,UPI,Pending,2580
+O0209,2026-07-23,C1062,Rohan Gupta,Face Wash,Beauty,1,320,West,Net Banking,Delivered,320
+O0210,2026-01-17,C1087,Ishita Gupta,Table Lamp,Home & Kitchen,1,1390,West,UPI,Cancelled,1390
+O0211,2026-02-07,C1084,Priya Verma,Mouse,Electronics,1,1450,North,Cash on Delivery,Returned,1450
+O0212,2026-09-08,C1149,Riya Mehta,Smartphone,Electronics,5,48960,East,Cash on Delivery,Delivered,244800
+O0213,2026-05-02,C1133,Aarav Sharma,Keyboard,Electronics,5,4030,West,Debit Card,Delivered,20150
+O0214,2026-12-24,C1038,Nisha Gupta,Perfume,Beauty,4,990,West,Credit Card,Delivered,3960
+O0215,2026-12-26,C1140,Pooja Singh,Jeans,Fashion,2,1380,East,Net Banking,Delivered,2760
+O0216,2026-11-14,C1118,Kabir Malhotra,Yoga Mat,Sports,4,540,South,Debit Card,Pending,2160
+O0217,2026-07-27,C1030,Aditya Singh,Backpack,Fashion,5,1900,East,Debit Card,Delivered,9500
+O0218,2026-08-01,C1036,Mehak Kapoor,Jeans,Fashion,2,3010,West,UPI,Delivered,6020
+O0219,2026-03-12,C1075,Ananya Sharma,T-Shirt,Fashion,5,590,West,Credit Card,Delivered,2950
+O0220,2026-05-17,C1067,Ananya Sharma,Backpack,Fashion,4,2760,East,Credit Card,Returned,11040
+O0221,2026-03-08,C1038,Kabir Malhotra,Smartphone,Electronics,3,37120,West,Net Banking,Delivered,111360
+O0222,2026-11-02,C1121,Neha Kumar,Keyboard,Electronics,3,1690,South,UPI,Returned,5070
+O0223,2026-03-06,C1109,Simran Bansal,Mouse,Electronics,2,520,East,Debit Card,Delivered,1040
+O0224,2026-05-03,C1054,Sakshi Sharma,T-Shirt,Fashion,5,1320,South,Cash on Delivery,Returned,6600
+O0225,2026-09-03,C1066,Tanya Patel,Cricket Bat,Sports,3,6790,North,Cash on Delivery,Delivered,20370
+O0226,2026-12-15,C1150,Sakshi Sharma,Cricket Bat,Sports,5,3130,East,Net Banking,Cancelled,15650
+O0227,2026-07-30,C1149,Karan Mehta,Smartphone,Electronics,3,62150,East,Debit Card,Returned,186450
+O0228,2026-05-19,C1070,Mehak Kapoor,Laptop,Electronics,4,54940,East,Debit Card,Delivered,219760
+O0229,2026-12-21,C1128,Mehak Kapoor,Bedsheet,Home & Kitchen,3,1870,West,UPI,Pending,5610
+O0230,2026-05-19,C1055,Simran Bansal,Keyboard,Electronics,1,4030,South,Credit Card,Delivered,4030
+O0231,2026-12-27,C1014,Riya Mehta,Smartwatch,Electronics,5,15920,South,Credit Card,Pending,79600
+O0232,2026-09-20,C1101,Simran Bansal,Mouse,Electronics,1,1930,North,Cash on Delivery,Delivered,1930
+O0233,2026-10-15,C1093,Tanya Patel,Jeans,Fashion,4,2210,South,Cash on Delivery,Cancelled,8840
+O0234,2026-08-11,C1063,Nisha Gupta,Jacket,Fashion,3,6740,West,Cash on Delivery,Delivered,20220
+O0235,2026-04-13,C1114,Ishita Gupta,Moisturizer,Beauty,5,1540,South,Credit Card,Delivered,7700
+O0236,2026-06-30,C1002,Arjun Verma,Moisturizer,Beauty,3,1420,South,Debit Card,Returned,4260
+O0237,2026-09-22,C1005,Vivaan Kumar,Jacket,Fashion,5,4160,East,Cash on Delivery,Pending,20800
+O0238,2026-02-24,C1139,Kabir Malhotra,Shoes,Fashion,5,2540,North,Debit Card,Delivered,12700
+O0239,2026-01-04,C1040,Nisha Gupta,Mouse,Electronics,5,2340,South,Credit Card,Cancelled,11700
+O0240,2026-03-12,C1138,Neha Kumar,Blender,Home & Kitchen,3,4430,North,Net Banking,Pending,13290
+O0241,2026-11-04,C1127,Aarav Sharma,Mouse,Electronics,5,2260,West,Net Banking,Returned,11300
+O0242,2026-04-25,C1080,Rahul Patel,Football,Sports,2,1210,South,Debit Card,Delivered,2420
+O0243,2026-11-30,C1071,Pooja Singh,Backpack,Fashion,2,1150,East,Net Banking,Pending,2300
+O0244,2026-09-04,C1148,Rohan Gupta,Perfume,Beauty,4,4180,East,Debit Card,Cancelled,16720
+O0245,2026-12-20,C1031,Ananya Sharma,Mouse,Electronics,3,1190,North,Credit Card,Delivered,3570
+O0246,2026-08-10,C1064,Arjun Verma,Jeans,Fashion,1,2430,East,Cash on Delivery,Cancelled,2430
+O0247,2026-07-28,C1142,Ananya Sharma,Backpack,Fashion,4,2630,North,UPI,Returned,10520
+O0248,2026-06-23,C1096,Tanya Patel,Smartphone,Electronics,1,28780,North,UPI,Delivered,28780
+O0249,2026-11-14,C1098,Sakshi Sharma,Smartwatch,Electronics,1,14500,South,UPI,Delivered,14500
+O0250,2026-05-30,C1014,Mehak Kapoor,Shoes,Fashion,2,4640,East,UPI,Delivered,9280
+O0251,2026-09-24,C1028,Priya Verma,Shoes,Fashion,2,5700,East,Debit Card,Delivered,11400
+O0252,2026-12-13,C1126,Vivaan Kumar,Yoga Mat,Sports,3,1650,West,Cash on Delivery,Delivered,4950
+O0253,2026-05-06,C1138,Karan Mehta,Yoga Mat,Sports,3,1740,West,UPI,Delivered,5220
+O0254,2026-06-18,C1034,Pooja Singh,Moisturizer,Beauty,5,1740,West,Cash on Delivery,Pending,8700
+O0255,2026-02-01,C1123,Mehak Kapoor,T-Shirt,Fashion,2,1110,North,Net Banking,Delivered,2220
+O0256,2026-01-23,C1051,Karan Mehta,Table Lamp,Home & Kitchen,4,1280,South,Debit Card,Delivered,5120
+O0257,2026-02-09,C1076,Rahul Patel,Table Lamp,Home & Kitchen,2,2730,North,Debit Card,Delivered,5460
+O0258,2026-02-16,C1102,Aditya Singh,Face Wash,Beauty,2,400,South,UPI,Pending,800
+O0259,2026-01-03,C1111,Kabir Malhotra,Yoga Mat,Sports,4,720,South,Net Banking,Delivered,2880
+O0260,2026-01-02,C1038,Arjun Verma,Shoes,Fashion,3,2100,West,Cash on Delivery,Cancelled,6300
+O0261,2026-04-27,C1142,Riya Mehta,Keyboard,Electronics,2,1770,West,Credit Card,Delivered,3540
+O0262,2026-01-12,C1145,Tanya Patel,Mouse,Electronics,1,640,South,UPI,Pending,640
+O0263,2026-10-13,C1123,Aarav Sharma,Blender,Home & Kitchen,3,2860,North,Net Banking,Delivered,8580
+O0264,2026-07-13,C1133,Ishita Gupta,Jeans,Fashion,2,1950,North,Cash on Delivery,Pending,3900
+O0265,2026-06-13,C1066,Arjun Verma,Jacket,Fashion,5,6480,West,UPI,Cancelled,32400
+O0266,2026-03-29,C1030,Pooja Singh,Backpack,Fashion,2,960,East,Debit Card,Delivered,1920
+O0267,2026-04-04,C1077,Priya Verma,Mouse,Electronics,2,730,East,Credit Card,Delivered,1460
+O0268,2026-02-24,C1109,Ishita Gupta,Blender,Home & Kitchen,1,3640,East,Cash on Delivery,Delivered,3640
+O0269,2026-02-09,C1085,Mehak Kapoor,Cookware Set,Home & Kitchen,1,7670,West,Cash on Delivery,Delivered,7670
+O0270,2026-08-18,C1081,Simran Bansal,Football,Sports,4,1200,South,Net Banking,Delivered,4800
+O0271,2026-09-14,C1103,Priya Verma,Football,Sports,1,2380,North,Debit Card,Returned,2380
+O0272,2026-10-11,C1143,Priya Verma,Keyboard,Electronics,3,3560,North,Debit Card,Delivered,10680
+O0273,2026-06-27,C1057,Tanya Patel,Face Wash,Beauty,4,480,West,Net Banking,Returned,1920
+O0274,2026-04-04,C1092,Ishita Gupta,Jeans,Fashion,4,2820,East,Credit Card,Delivered,11280
+O0275,2026-10-07,C1021,Kabir Malhotra,Football,Sports,4,650,South,UPI,Cancelled,2600
+O0276,2026-10-03,C1117,Aanya Singh,Cookware Set,Home & Kitchen,4,7840,West,Debit Card,Cancelled,31360
+O0277,2026-06-13,C1091,Ishita Gupta,Jeans,Fashion,3,1510,West,UPI,Returned,4530
+O0278,2026-06-19,C1029,Vivaan Kumar,Smartphone,Electronics,4,54690,East,Debit Card,Delivered,218760
+O0279,2026-10-28,C1098,Sakshi Sharma,Shoes,Fashion,5,1920,South,Credit Card,Delivered,9600
+O0280,2026-10-26,C1097,Arjun Verma,Mouse,Electronics,5,1150,West,Debit Card,Delivered,5750
+O0281,2026-05-08,C1032,Ananya Sharma,Table Lamp,Home & Kitchen,1,740,North,UPI,Cancelled,740
+O0282,2026-12-30,C1117,Rahul Patel,Laptop,Electronics,2,46280,West,Debit Card,Delivered,92560
+O0283,2026-07-27,C1122,Priya Verma,Cricket Bat,Sports,4,3980,North,Net Banking,Pending,15920
+O0284,2026-03-02,C1124,Rohan Gupta,Jacket,Fashion,5,4390,West,Cash on Delivery,Cancelled,21950
+O0285,2026-04-17,C1014,Rohan Gupta,Smartphone,Electronics,2,44160,South,UPI,Pending,88320
+O0286,2026-11-05,C1058,Ananya Sharma,Shoes,Fashion,4,5240,East,Net Banking,Cancelled,20960
+O0287,2026-11-25,C1013,Priya Verma,Jacket,Fashion,3,5520,North,UPI,Delivered,16560
+O0288,2026-07-22,C1042,Vivaan Kumar,Mouse,Electronics,2,650,East,Debit Card,Pending,1300
+O0289,2026-09-15,C1115,Priya Verma,Backpack,Fashion,4,2200,South,Cash on Delivery,Returned,8800
+O0290,2026-10-09,C1128,Aanya Singh,Blender,Home & Kitchen,4,5350,North,Credit Card,Delivered,21400
+O0291,2026-03-01,C1123,Priya Verma,Face Wash,Beauty,5,300,East,Cash on Delivery,Returned,1500
+O0292,2026-01-19,C1140,Sakshi Sharma,Football,Sports,4,2280,North,Cash on Delivery,Delivered,9120
+O0293,2026-06-16,C1031,Priya Verma,Perfume,Beauty,1,940,East,Credit Card,Delivered,940
+O0294,2026-10-03,C1057,Pooja Singh,Football,Sports,1,1420,West,Cash on Delivery,Returned,1420
+O0295,2026-03-29,C1079,Neha Kumar,Face Wash,Beauty,3,620,South,UPI,Returned,1860
+O0296,2026-01-16,C1088,Rohan Gupta,Jeans,Fashion,4,3180,North,Debit Card,Delivered,12720
+O0297,2026-08-16,C1004,Mehak Kapoor,Jacket,Fashion,2,6760,East,Debit Card,Delivered,13520
+O0298,2026-10-09,C1010,Karan Mehta,Shoes,Fashion,3,5250,South,UPI,Delivered,15750
+O0299,2026-09-26,C1028,Arjun Verma,Mouse,Electronics,4,1620,East,Credit Card,Returned,6480
+O0300,2026-04-09,C1034,Simran Bansal,Jacket,Fashion,1,4130,South,UPI,Delivered,4130
+O0301,2026-02-11,C1067,Pooja Singh,T-Shirt,Fashion,3,1580,East,Credit Card,Delivered,4740
+O0302,2026-06-24,C1101,Simran Bansal,Headphones,Electronics,2,3050,West,Debit Card,Delivered,6100
+O0303,2026-08-11,C1018,Riya Mehta,T-Shirt,Fashion,2,1780,West,Cash on Delivery,Delivered,3560
+O0304,2026-01-18,C1006,Tanya Patel,Moisturizer,Beauty,1,1430,West,Debit Card,Cancelled,1430
+O0305,2026-01-20,C1031,Karan Mehta,Keyboard,Electronics,3,3130,East,Debit Card,Delivered,9390
+O0306,2026-08-17,C1032,Mehak Kapoor,Table Lamp,Home & Kitchen,4,2890,South,Cash on Delivery,Delivered,11560
+O0307,2026-04-30,C1117,Karan Mehta,Cookware Set,Home & Kitchen,5,5860,South,UPI,Cancelled,29300
+O0308,2026-02-07,C1026,Pooja Singh,Backpack,Fashion,2,1200,North,Cash on Delivery,Cancelled,2400
+O0309,2026-05-22,C1140,Rohan Gupta,Face Wash,Beauty,3,860,East,Net Banking,Pending,2580
+O0310,2026-04-26,C1039,Rohan Gupta,Shoes,Fashion,1,3920,South,Net Banking,Delivered,3920
+O0311,2026-03-31,C1101,Sakshi Sharma,Backpack,Fashion,2,2500,West,Debit Card,Pending,5000
+O0312,2026-03-02,C1110,Rahul Patel,Mouse,Electronics,5,1400,North,UPI,Delivered,7000
+O0313,2026-10-11,C1011,Mehak Kapoor,Moisturizer,Beauty,3,360,South,UPI,Delivered,1080
+O0314,2026-08-03,C1120,Ananya Sharma,Cricket Bat,Sports,4,6050,South,UPI,Pending,24200
+O0315,2026-09-05,C1005,Vivaan Kumar,Perfume,Beauty,2,1590,North,Cash on Delivery,Delivered,3180
+O0316,2026-09-21,C1069,Rahul Patel,Shoes,Fashion,3,4300,West,Debit Card,Delivered,12900
+O0317,2026-11-28,C1024,Karan Mehta,Face Wash,Beauty,1,820,North,Debit Card,Delivered,820
+O0318,2026-02-18,C1071,Riya Mehta,Jacket,Fashion,1,2630,West,Debit Card,Delivered,2630
+O0319,2026-02-03,C1060,Vivaan Kumar,Backpack,Fashion,5,2700,East,UPI,Returned,13500
+O0320,2026-03-10,C1136,Vivaan Kumar,Yoga Mat,Sports,3,1310,South,Credit Card,Delivered,3930
+O0321,2026-11-07,C1008,Rohan Gupta,Headphones,Electronics,5,1020,West,Credit Card,Delivered,5100
+O0322,2026-02-07,C1039,Nisha Gupta,Shoes,Fashion,4,3770,South,Debit Card,Delivered,15080
+O0323,2026-11-27,C1027,Priya Verma,Table Lamp,Home & Kitchen,5,2850,South,Credit Card,Delivered,14250
+O0324,2026-07-07,C1122,Neha Kumar,Backpack,Fashion,1,1170,South,Debit Card,Delivered,1170
+O0325,2026-11-23,C1063,Arjun Verma,Blender,Home & Kitchen,1,2960,West,Credit Card,Delivered,2960
+O0326,2026-01-20,C1093,Priya Verma,Cookware Set,Home & Kitchen,1,6120,East,Cash on Delivery,Delivered,6120
+O0327,2026-12-22,C1087,Sakshi Sharma,Jeans,Fashion,5,1690,North,Credit Card,Delivered,8450
+O0328,2026-10-17,C1050,Ishita Gupta,Shoes,Fashion,4,2280,East,UPI,Delivered,9120
+O0329,2026-01-01,C1138,Sakshi Sharma,Jacket,Fashion,3,6380,North,Cash on Delivery,Delivered,19140
+O0330,2026-07-04,C1088,Karan Mehta,Table Lamp,Home & Kitchen,4,1970,South,Cash on Delivery,Delivered,7880
+O0331,2026-05-26,C1120,Vivaan Kumar,Shoes,Fashion,2,5150,West,Debit Card,Delivered,10300
+O0332,2026-04-13,C1053,Rahul Patel,Perfume,Beauty,5,3920,South,Net Banking,Delivered,19600
+O0333,2026-05-01,C1040,Priya Verma,Yoga Mat,Sports,2,1590,East,UPI,Cancelled,3180
+O0334,2026-08-11,C1053,Neha Kumar,Smartwatch,Electronics,4,14740,East,UPI,Pending,58960
+O0335,2026-03-18,C1024,Karan Mehta,Mouse,Electronics,2,1180,South,Debit Card,Cancelled,2360
+O0336,2026-10-05,C1136,Ishita Gupta,Headphones,Electronics,3,2860,East,Cash on Delivery,Delivered,8580
+O0337,2026-02-08,C1045,Rahul Patel,Jacket,Fashion,3,5030,East,Cash on Delivery,Delivered,15090
+O0338,2026-07-08,C1074,Rohan Gupta,Laptop,Electronics,4,77090,South,UPI,Delivered,308360
+O0339,2026-12-06,C1138,Nisha Gupta,Cookware Set,Home & Kitchen,2,8970,East,Debit Card,Delivered,17940
+O0340,2026-09-08,C1097,Ananya Sharma,Mouse,Electronics,3,1140,South,Net Banking,Delivered,3420
+O0341,2026-01-13,C1015,Aarav Sharma,Jeans,Fashion,3,2930,South,Credit Card,Delivered,8790
+O0342,2026-07-21,C1056,Simran Bansal,Shoes,Fashion,5,2770,East,Debit Card,Delivered,13850
+O0343,2026-03-17,C1067,Karan Mehta,Jacket,Fashion,3,5700,South,Debit Card,Delivered,17100
+O0344,2026-07-18,C1035,Neha Kumar,Table Lamp,Home & Kitchen,5,2120,West,Net Banking,Returned,10600
+O0345,2026-04-12,C1012,Aarav Sharma,Shoes,Fashion,4,2760,South,Debit Card,Delivered,11040
+O0346,2026-07-17,C1028,Rohan Gupta,Smartphone,Electronics,5,32030,North,UPI,Pending,160150
+O0347,2026-11-03,C1049,Aditya Singh,Football,Sports,2,1860,West,Net Banking,Delivered,3720
+O0348,2026-06-14,C1090,Pooja Singh,Yoga Mat,Sports,1,1520,East,Debit Card,Cancelled,1520
+O0349,2026-02-07,C1060,Karan Mehta,Mouse,Electronics,2,1920,East,Net Banking,Cancelled,3840
+O0350,2026-11-23,C1050,Rahul Patel,Table Lamp,Home & Kitchen,4,2160,South,Cash on Delivery,Delivered,8640
+O0351,2026-04-12,C1127,Ishita Gupta,Perfume,Beauty,1,2740,South,Debit Card,Returned,2740
+O0352,2026-09-15,C1035,Simran Bansal,Jeans,Fashion,1,3020,East,Cash on Delivery,Delivered,3020
+O0353,2026-08-05,C1099,Neha Kumar,Cookware Set,Home & Kitchen,1,5330,East,Debit Card,Delivered,5330
+O0354,2026-01-28,C1036,Arjun Verma,Cookware Set,Home & Kitchen,4,8350,North,Net Banking,Returned,33400
+O0355,2026-03-30,C1124,Aarav Sharma,Keyboard,Electronics,2,1300,East,Credit Card,Delivered,2600
+O0356,2026-08-04,C1003,Kabir Malhotra,Blender,Home & Kitchen,3,3060,North,UPI,Returned,9180
+O0357,2026-05-22,C1032,Riya Mehta,Jeans,Fashion,3,1870,West,Net Banking,Delivered,5610
+O0358,2026-03-24,C1101,Priya Verma,Football,Sports,1,1950,East,Cash on Delivery,Pending,1950
+O0359,2026-04-26,C1033,Simran Bansal,Shoes,Fashion,2,4980,West,Cash on Delivery,Returned,9960
+O0360,2026-12-13,C1054,Priya Verma,Blender,Home & Kitchen,1,4460,West,UPI,Delivered,4460
+O0361,2026-05-26,C1012,Aanya Singh,Backpack,Fashion,2,1870,West,Credit Card,Delivered,3740
+O0362,2026-08-25,C1013,Vivaan Kumar,Football,Sports,2,2200,North,Debit Card,Pending,4400
+O0363,2026-11-27,C1047,Rohan Gupta,Table Lamp,Home & Kitchen,1,2360,West,Credit Card,Delivered,2360
+O0364,2026-04-22,C1002,Sakshi Sharma,Laptop,Electronics,1,49380,West,Credit Card,Delivered,49380
+O0365,2026-11-08,C1132,Rohan Gupta,Yoga Mat,Sports,5,900,East,Net Banking,Delivered,4500
+O0366,2026-10-06,C1074,Ishita Gupta,Cricket Bat,Sports,3,5290,West,Cash on Delivery,Delivered,15870
+O0367,2026-12-08,C1137,Karan Mehta,Face Wash,Beauty,3,440,West,Credit Card,Delivered,1320
+O0368,2026-02-11,C1023,Mehak Kapoor,Shoes,Fashion,2,3420,South,Net Banking,Delivered,6840
+O0369,2026-12-24,C1078,Arjun Verma,Laptop,Electronics,1,77670,East,Debit Card,Delivered,77670
+O0370,2026-11-28,C1089,Mehak Kapoor,Jeans,Fashion,3,1290,South,Net Banking,Delivered,3870
+O0371,2026-08-19,C1088,Arjun Verma,Face Wash,Beauty,2,790,South,Cash on Delivery,Delivered,1580
+O0372,2026-05-12,C1142,Tanya Patel,Blender,Home & Kitchen,4,2900,North,Debit Card,Returned,11600
+O0373,2026-03-19,C1101,Rahul Patel,Smartwatch,Electronics,2,14820,West,Cash on Delivery,Returned,29640
+O0374,2026-12-28,C1098,Arjun Verma,Shoes,Fashion,3,4920,East,Debit Card,Returned,14760
+O0375,2026-06-09,C1043,Ishita Gupta,Moisturizer,Beauty,5,1160,West,Net Banking,Delivered,5800
+O0376,2026-03-06,C1079,Vivaan Kumar,Table Lamp,Home & Kitchen,4,2330,West,Credit Card,Pending,9320
+O0377,2026-09-07,C1128,Tanya Patel,Jeans,Fashion,4,1850,East,Credit Card,Delivered,7400
+O0378,2026-06-18,C1040,Nisha Gupta,Headphones,Electronics,3,920,North,Debit Card,Delivered,2760
+O0379,2026-04-06,C1143,Karan Mehta,Football,Sports,2,850,West,Cash on Delivery,Delivered,1700
+O0380,2026-12-14,C1082,Ananya Sharma,Cricket Bat,Sports,3,1590,West,Debit Card,Delivered,4770
+O0381,2026-12-11,C1124,Ananya Sharma,Headphones,Electronics,1,7480,West,UPI,Delivered,7480
+O0382,2026-12-30,C1105,Tanya Patel,Shoes,Fashion,3,3620,West,Cash on Delivery,Returned,10860
+O0383,2026-10-30,C1127,Sakshi Sharma,Backpack,Fashion,3,1500,West,Debit Card,Delivered,4500
+O0384,2026-09-16,C1034,Kabir Malhotra,Jacket,Fashion,3,3040,West,Net Banking,Cancelled,9120
+O0385,2026-06-07,C1035,Ishita Gupta,Mouse,Electronics,4,1690,South,UPI,Delivered,6760
+O0386,2026-10-04,C1073,Kabir Malhotra,Keyboard,Electronics,2,1690,East,UPI,Delivered,3380
+O0387,2026-12-12,C1010,Tanya Patel,Bedsheet,Home & Kitchen,3,800,North,Net Banking,Returned,2400
+O0388,2026-10-15,C1019,Rahul Patel,Cricket Bat,Sports,5,5190,North,Cash on Delivery,Cancelled,25950
+O0389,2026-01-21,C1008,Simran Bansal,Football,Sports,2,1360,North,UPI,Delivered,2720
+O0390,2026-02-02,C1026,Aarav Sharma,Perfume,Beauty,4,3140,North,Net Banking,Delivered,12560
+O0391,2026-07-02,C1015,Tanya Patel,Bedsheet,Home & Kitchen,4,1800,North,Cash on Delivery,Delivered,7200
+O0392,2026-01-25,C1132,Rahul Patel,Cookware Set,Home & Kitchen,2,7830,North,Debit Card,Cancelled,15660
+O0393,2026-10-04,C1055,Riya Mehta,Football,Sports,4,1430,South,Net Banking,Returned,5720
+O0394,2026-02-19,C1100,Ananya Sharma,Blender,Home & Kitchen,2,3050,North,Cash on Delivery,Returned,6100
+O0395,2026-04-07,C1126,Aditya Singh,Blender,Home & Kitchen,2,3320,North,Cash on Delivery,Pending,6640
+O0396,2026-06-02,C1027,Aditya Singh,Yoga Mat,Sports,4,1160,West,Debit Card,Delivered,4640
+O0397,2026-05-30,C1124,Karan Mehta,Jeans,Fashion,3,1340,North,Credit Card,Cancelled,4020
+O0398,2026-07-08,C1086,Aditya Singh,Headphones,Electronics,1,7780,East,UPI,Delivered,7780
+O0399,2026-03-25,C1017,Ishita Gupta,Smartphone,Electronics,4,66460,North,Cash on Delivery,Delivered,265840
+O0400,2026-12-30,C1025,Riya Mehta,Table Lamp,Home & Kitchen,2,740,East,Debit Card,Delivered,1480
+O0401,2026-06-17,C1097,Ananya Sharma,Mouse,Electronics,1,1210,South,Debit Card,Cancelled,1210
+O0402,2026-10-17,C1149,Ishita Gupta,Cricket Bat,Sports,4,6610,West,Cash on Delivery,Delivered,26440
+O0403,2026-06-29,C1021,Ishita Gupta,Football,Sports,1,1710,West,Credit Card,Delivered,1710
+O0404,2026-07-04,C1141,Mehak Kapoor,Perfume,Beauty,2,4300,West,Credit Card,Cancelled,8600
+O0405,2026-12-11,C1139,Riya Mehta,Football,Sports,1,1100,East,Credit Card,Pending,1100
+O0406,2026-11-27,C1015,Rohan Gupta,Laptop,Electronics,1,53720,South,Debit Card,Delivered,53720
+O0407,2026-08-24,C1139,Aarav Sharma,Smartphone,Electronics,4,69310,North,Debit Card,Delivered,277240
+O0408,2026-10-11,C1087,Vivaan Kumar,Keyboard,Electronics,1,1010,South,UPI,Cancelled,1010
+O0409,2026-01-23,C1131,Aanya Singh,Cookware Set,Home & Kitchen,1,4770,East,UPI,Delivered,4770
+O0410,2026-07-03,C1146,Aditya Singh,Cricket Bat,Sports,5,2530,West,Debit Card,Delivered,12650
+O0411,2026-05-20,C1125,Ananya Sharma,Moisturizer,Beauty,4,1590,North,Debit Card,Delivered,6360
+O0412,2026-10-23,C1003,Ananya Sharma,Face Wash,Beauty,1,500,East,Cash on Delivery,Delivered,500
+O0413,2026-04-26,C1127,Neha Kumar,Shoes,Fashion,1,3310,North,UPI,Delivered,3310
+O0414,2026-07-12,C1088,Arjun Verma,Backpack,Fashion,5,2220,West,Debit Card,Delivered,11100
+O0415,2026-04-24,C1037,Priya Verma,Cricket Bat,Sports,2,6970,South,Credit Card,Returned,13940
+O0416,2026-04-20,C1036,Priya Verma,Backpack,Fashion,2,1230,South,UPI,Returned,2460
+O0417,2026-03-14,C1089,Rahul Patel,Jacket,Fashion,2,3750,South,Net Banking,Delivered,7500
+O0418,2026-08-04,C1112,Ishita Gupta,Moisturizer,Beauty,3,1560,East,Debit Card,Pending,4680
+O0419,2026-06-26,C1110,Arjun Verma,Blender,Home & Kitchen,1,3650,South,Credit Card,Delivered,3650
+O0420,2026-03-23,C1101,Ananya Sharma,T-Shirt,Fashion,3,1790,North,UPI,Pending,5370
+O0421,2026-12-05,C1148,Aditya Singh,Smartphone,Electronics,4,25390,East,Net Banking,Delivered,101560
+O0422,2026-11-22,C1009,Tanya Patel,Table Lamp,Home & Kitchen,2,2860,West,Credit Card,Delivered,5720
+O0423,2026-04-27,C1041,Aarav Sharma,Smartphone,Electronics,3,38920,West,Cash on Delivery,Returned,116760
+O0424,2026-11-10,C1025,Neha Kumar,Shoes,Fashion,4,1590,North,Debit Card,Delivered,6360
+O0425,2026-06-19,C1131,Simran Bansal,T-Shirt,Fashion,1,1130,North,Credit Card,Delivered,1130
+O0426,2026-11-26,C1105,Karan Mehta,Table Lamp,Home & Kitchen,2,2700,North,Credit Card,Pending,5400
+O0427,2026-04-20,C1117,Nisha Gupta,Yoga Mat,Sports,4,1910,North,Cash on Delivery,Delivered,7640
+O0428,2026-04-27,C1099,Vivaan Kumar,Moisturizer,Beauty,5,1060,East,Cash on Delivery,Pending,5300
+O0429,2026-10-09,C1051,Mehak Kapoor,Keyboard,Electronics,1,3570,West,Cash on Delivery,Delivered,3570
+O0430,2026-04-12,C1048,Pooja Singh,Smartphone,Electronics,5,57560,South,Credit Card,Pending,287800
+O0431,2026-07-07,C1077,Priya Verma,Blender,Home & Kitchen,2,3210,West,UPI,Delivered,6420
+O0432,2026-09-04,C1115,Aditya Singh,Laptop,Electronics,2,75140,East,UPI,Returned,150280
+O0433,2026-06-13,C1141,Aanya Singh,Table Lamp,Home & Kitchen,5,1010,West,Cash on Delivery,Delivered,5050
+O0434,2026-11-04,C1142,Neha Kumar,Laptop,Electronics,4,52070,North,Cash on Delivery,Delivered,208280
+O0435,2026-04-01,C1101,Nisha Gupta,Cricket Bat,Sports,5,6760,West,UPI,Delivered,33800
+O0436,2026-04-15,C1132,Karan Mehta,Table Lamp,Home & Kitchen,1,2060,East,Cash on Delivery,Returned,2060
+O0437,2026-03-29,C1004,Rahul Patel,Headphones,Electronics,3,1420,South,Cash on Delivery,Delivered,4260
+O0438,2026-11-04,C1100,Sakshi Sharma,Smartwatch,Electronics,4,12100,West,Credit Card,Delivered,48400
+O0439,2026-06-17,C1045,Nisha Gupta,Bedsheet,Home & Kitchen,5,1800,East,Debit Card,Delivered,9000
+O0440,2026-02-03,C1036,Priya Verma,Football,Sports,2,2000,West,Net Banking,Delivered,4000
+O0441,2026-03-05,C1074,Aditya Singh,Cookware Set,Home & Kitchen,2,5460,North,UPI,Delivered,10920
+O0442,2026-01-02,C1029,Karan Mehta,Football,Sports,1,910,North,Credit Card,Cancelled,910
+O0443,2026-08-02,C1115,Simran Bansal,Face Wash,Beauty,2,890,South,Cash on Delivery,Delivered,1780
+O0444,2026-01-01,C1030,Aanya Singh,Jacket,Fashion,3,6260,North,Cash on Delivery,Pending,18780
+O0445,2026-03-10,C1092,Karan Mehta,Table Lamp,Home & Kitchen,3,2620,West,Debit Card,Delivered,7860
+O0446,2026-05-15,C1095,Mehak Kapoor,Laptop,Electronics,3,84830,South,Debit Card,Cancelled,254490
+O0447,2026-12-27,C1091,Aditya Singh,Smartwatch,Electronics,2,9590,North,Cash on Delivery,Delivered,19180
+O0448,2026-09-12,C1142,Sakshi Sharma,Moisturizer,Beauty,5,940,South,Cash on Delivery,Returned,4700
+O0449,2026-05-02,C1141,Aditya Singh,Bedsheet,Home & Kitchen,4,1760,East,Debit Card,Delivered,7040
+O0450,2026-12-28,C1044,Vivaan Kumar,T-Shirt,Fashion,4,1200,West,Net Banking,Cancelled,4800
+O0451,2026-04-02,C1067,Pooja Singh,T-Shirt,Fashion,2,630,South,Cash on Delivery,Delivered,1260
+O0452,2026-08-02,C1030,Arjun Verma,Face Wash,Beauty,1,900,South,Cash on Delivery,Delivered,900
+O0453,2026-08-23,C1142,Neha Kumar,Keyboard,Electronics,5,4820,East,Net Banking,Delivered,24100
+O0454,2026-01-05,C1042,Neha Kumar,Laptop,Electronics,2,64690,West,Cash on Delivery,Pending,129380
+O0455,2026-12-04,C1105,Riya Mehta,Jacket,Fashion,2,3760,East,Credit Card,Cancelled,7520
+O0456,2026-03-23,C1068,Pooja Singh,Blender,Home & Kitchen,4,5560,North,Cash on Delivery,Delivered,22240
+O0457,2026-11-13,C1052,Aanya Singh,Bedsheet,Home & Kitchen,3,1290,South,Debit Card,Delivered,3870
+O0458,2026-09-30,C1097,Vivaan Kumar,Jeans,Fashion,5,2070,North,Net Banking,Delivered,10350
+O0459,2026-10-17,C1050,Rohan Gupta,Moisturizer,Beauty,5,350,East,Credit Card,Delivered,1750
+O0460,2026-08-23,C1017,Arjun Verma,Headphones,Electronics,5,2710,West,Credit Card,Delivered,13550
+O0461,2026-12-30,C1145,Simran Bansal,Mouse,Electronics,3,1380,South,Cash on Delivery,Delivered,4140
+O0462,2026-11-12,C1121,Aanya Singh,Perfume,Beauty,2,2610,West,Debit Card,Delivered,5220
+O0463,2026-01-08,C1045,Rahul Patel,Jacket,Fashion,5,2160,West,Debit Card,Returned,10800
+O0464,2026-05-18,C1004,Kabir Malhotra,Mouse,Electronics,5,520,West,Net Banking,Delivered,2600
+O0465,2026-12-20,C1088,Sakshi Sharma,Jacket,Fashion,5,6580,South,UPI,Delivered,32900
+O0466,2026-11-19,C1135,Rohan Gupta,Football,Sports,2,1620,West,Credit Card,Pending,3240
+O0467,2026-06-30,C1110,Aanya Singh,Perfume,Beauty,2,2950,East,Net Banking,Returned,5900
+O0468,2026-12-20,C1058,Neha Kumar,Smartwatch,Electronics,5,8920,North,UPI,Returned,44600
+O0469,2026-06-22,C1047,Rohan Gupta,Football,Sports,2,2220,South,Cash on Delivery,Returned,4440
+O0470,2026-07-06,C1112,Sakshi Sharma,Smartphone,Electronics,2,35990,South,Credit Card,Delivered,71980
+O0471,2026-03-31,C1029,Priya Verma,Cricket Bat,Sports,2,2190,West,Debit Card,Delivered,4380
+O0472,2026-07-25,C1068,Karan Mehta,Smartphone,Electronics,5,17660,East,Cash on Delivery,Delivered,88300
+O0473,2026-08-26,C1080,Tanya Patel,T-Shirt,Fashion,2,560,North,Net Banking,Returned,1120
+O0474,2026-07-12,C1088,Vivaan Kumar,Keyboard,Electronics,1,3570,East,UPI,Cancelled,3570
+O0475,2026-07-20,C1144,Vivaan Kumar,T-Shirt,Fashion,1,1080,East,Cash on Delivery,Delivered,1080
+O0476,2026-06-30,C1098,Priya Verma,Jacket,Fashion,2,5370,North,UPI,Delivered,10740
+O0477,2026-05-10,C1023,Aanya Singh,Face Wash,Beauty,2,740,North,Net Banking,Cancelled,1480
+O0478,2026-01-19,C1063,Rohan Gupta,Football,Sports,1,1870,West,Cash on Delivery,Delivered,1870
+O0479,2026-03-01,C1132,Tanya Patel,Mouse,Electronics,2,1110,North,UPI,Delivered,2220
+O0480,2026-08-02,C1062,Aarav Sharma,Cricket Bat,Sports,2,5810,East,UPI,Delivered,11620
+O0481,2026-08-01,C1126,Simran Bansal,Jeans,Fashion,4,1750,East,Debit Card,Pending,7000
+O0482,2026-06-19,C1127,Pooja Singh,T-Shirt,Fashion,3,1500,East,Cash on Delivery,Returned,4500
+O0483,2026-10-28,C1041,Neha Kumar,Table Lamp,Home & Kitchen,4,1680,North,Credit Card,Cancelled,6720
+O0484,2026-05-13,C1093,Ananya Sharma,Headphones,Electronics,3,2200,South,Credit Card,Delivered,6600
+O0485,2026-01-02,C1050,Ishita Gupta,Shoes,Fashion,5,2710,East,Credit Card,Returned,13550
+O0486,2026-10-28,C1111,Simran Bansal,Yoga Mat,Sports,4,820,South,UPI,Pending,3280
+O0487,2026-02-17,C1073,Kabir Malhotra,Perfume,Beauty,1,2440,South,Credit Card,Delivered,2440
+O0488,2026-05-15,C1112,Ishita Gupta,Perfume,Beauty,3,2600,North,Debit Card,Returned,7800
+O0489,2026-02-21,C1019,Sakshi Sharma,Headphones,Electronics,3,3590,South,Credit Card,Pending,10770
+O0490,2026-09-08,C1065,Arjun Verma,Moisturizer,Beauty,4,410,West,Debit Card,Returned,1640
+O0491,2026-05-18,C1093,Tanya Patel,Cricket Bat,Sports,5,4260,South,Net Banking,Delivered,21300
+O0492,2026-02-24,C1014,Karan Mehta,Smartwatch,Electronics,4,13540,North,UPI,Delivered,54160
+O0493,2026-02-20,C1082,Ananya Sharma,Jacket,Fashion,5,1880,West,Debit Card,Pending,9400
+O0494,2026-10-23,C1055,Mehak Kapoor,Laptop,Electronics,3,73420,West,UPI,Delivered,220260
+O0495,2026-09-09,C1120,Karan Mehta,Headphones,Electronics,4,2140,North,Net Banking,Delivered,8560
+O0496,2026-11-07,C1135,Nisha Gupta,Headphones,Electronics,3,1260,South,UPI,Returned,3780
+O0497,2026-12-02,C1026,Aditya Singh,Jacket,Fashion,5,5070,West,Cash on Delivery,Cancelled,25350
+O0498,2026-08-03,C1122,Nisha Gupta,Smartwatch,Electronics,2,5120,North,Cash on Delivery,Delivered,10240
+O0499,2026-10-28,C1097,Aanya Singh,Face Wash,Beauty,3,790,South,Net Banking,Delivered,2370
+O0500,2026-06-28,C1133,Vivaan Kumar,Jacket,Fashion,5,5200,West,Cash on Delivery,Delivered,26000
